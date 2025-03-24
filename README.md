@@ -1,6 +1,6 @@
 <h3 align="center">BackEnd Developer | Java | Spring</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Atualmente Analista de TI </h3>
 <p align="left">
 </p>
 
